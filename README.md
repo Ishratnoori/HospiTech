@@ -48,6 +48,17 @@ npm run dev
 4. Access the Application: Open your browser and navigate to ```http://localhost:3000```.
 
 ---
+## Screenshots
+1. Home Page
+<img width="1851" height="874" alt="image" src="https://github.com/user-attachments/assets/62fcf67b-a383-4991-96a2-1f5d0b5e5e79" />
+2. Find your doctor
+<img width="1883" height="887" alt="image" src="https://github.com/user-attachments/assets/5fcac8e5-9497-4f4d-a466-ea8a42eaf6b4" />
+3. Book ur Appointment
+<img width="1742" height="860" alt="image" src="https://github.com/user-attachments/assets/a5895631-1312-4abe-81d6-eebeee4dd444" />
+
+
+
+---
 
 ## 📜License
 
